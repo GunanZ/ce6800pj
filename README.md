@@ -8,5 +8,6 @@ logistic regression #solver: cg      √
 Using neural network    √  
 Using random forest   √  
 Using pipeline to determine the best parameters for the random forest   √  
-ROC curve to evaluate our model
-3.                
+ROC curve to evaluate our model  √  
+3. building model to predict the number of injury
+Using linear regression
